@@ -1,6 +1,6 @@
 1. bpmを使用して一定時間ごとに動作を繰り返す。
 
-サンプル（シェイプレイヤー用アニメーションプリセット）: https://github.com/toosu/AE/blob/main/spinning_cross(bpm).ffx
+サンプル（シェイプレイヤー用アニメーションプリセット）: https://github.com/toosu/AE/raw/main/downloads/spinning_cross(bpm).ffx
 
 はじめに　（今回は回転で行う）
 エクスプレッション制御のスライダー制御でbpm項目を追加しておく
