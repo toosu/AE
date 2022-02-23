@@ -14,4 +14,4 @@ bpm計算２=2/("bpm計算１"*2); //小数点を使用した時間の値に変�
 
 loopOutDuration(type="offset",duration=bpm計算２)*逆回転計算;
 
-これで完成
+完成
