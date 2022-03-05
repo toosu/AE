@@ -6,4 +6,9 @@ Motion Graphics
 posterizeTime(5);
 time%3*10000
 
-・
+・CC Bend It // 木を曲げたり出来る （ディストーション表現）
+startとendのエクスプレッション
+toComp(value);
+
+・残像表現　（モーションブラー、エコー）
+"エコー"というエフェクトがある
