@@ -1,0 +1,6 @@
+n = 100;
+if(value<99){Math.round(Math.sin(time * n - inPoint * n + value) * 100)*100}
+else{value}
+
+フェードのエクスプレッションにこれを打ち込むと
+値が98以下の時に点滅するようになる。
